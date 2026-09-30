@@ -91,7 +91,7 @@ Some of the things I've worked on or explored:
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Knowledge
 
 ```text
 Cybersecurity         █████████░  Learning & Practicing
